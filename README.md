@@ -1,2 +1,2 @@
 # Kelvin-Weather
-Codecademy Project
+Codecademy project
